@@ -17,10 +17,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281223918622']
-global.premium = ['6281223918622']
+global.owner = ['6288215110787']
+global.premium = ['6288215110787']
 global.packname = '2022'
-global.author = 'RiyoXdz'
+global.author = 'ʜᴀɴᴢ ᴏғᴄ'
 global.sessionName = 'kiki'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
