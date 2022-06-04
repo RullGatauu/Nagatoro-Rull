@@ -17,11 +17,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288215110787']
-global.premium = ['6288215110787']
-global.packname = '2022'
-global.author = 'ʜᴀɴᴢ ᴏғᴄ'
-global.sessionName = 'kiki'
+global.owner = ['6285859047172']
+global.premium = ['6285859047172']
+global.packname = 'NagatoroBot'
+global.author = 'Nagatoro'
+global.sessionName = 'session.data'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
